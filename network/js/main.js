@@ -5,9 +5,7 @@ var config={};
 
 //For debug allow a config=file.json parameter to specify the config
 function GetQueryStringParams(sParam,defaultVal) {
-    var sPageURL = ""+window.location.search.substring(1);
-    if (sPageURL.indexOf("?")==-1) return defaultVal;
-    sPageURL=sPageURL.substr(sPageURL.indexOf("?")+1);    
+    var sPageURL = ""+window.location.search.substring(1);  
     var sURLVariables = sPageURL.split('&');
     for (var i = 0; i < sURLVariables.length; i++) {
         var sParameterName = sURLVariables[i].split('=');
