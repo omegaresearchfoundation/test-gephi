@@ -13,9 +13,9 @@
     "title": "Test network visual"
   },
   "legend": {
-    "edgeLabel": "",
+    "edgeLabel": "Edges",
     "colorLabel": "",
-    "nodeLabel": ""
+    "nodeLabel": "Nodes"
   },
   "features": {
     "search": true,
