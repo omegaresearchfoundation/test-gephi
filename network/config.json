@@ -5,17 +5,17 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "Scott"
+    "text": ""
   },
   "text": {
-    "more": "airline vis x",
-    "intro": "tesst vis",
-    "title": "Gephi "
+    "more": "",
+    "intro": "This is an test/example network showing parent-subsidiary relationships in the database",
+    "title": ""
   },
   "legend": {
-    "edgeLabel": "Flights",
-    "colorLabel": "Blue",
-    "nodeLabel": "Airports"
+    "edgeLabel": "",
+    "colorLabel": "",
+    "nodeLabel": ""
   },
   "features": {
     "search": true,
@@ -24,7 +24,7 @@
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": "Id"
+    "imageAttribute": false
   },
   "sigma": {
     "drawingProperties": {
@@ -40,8 +40,8 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
+      "maxEdgeSize": 4,
+      "minEdgeSize": 1,
       "minNodeSize": 1,
       "maxNodeSize": 7
     },
