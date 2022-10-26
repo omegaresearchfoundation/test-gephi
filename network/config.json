@@ -5,11 +5,11 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": ""
+    "text": "Omega Research Foundation"
   },
   "text": {
     "more": "",
-    "intro": "This is an test/example network showing parent-subsidiary relationships in the database",
+    "intro": "This is an test/example network ",
     "title": ""
   },
   "legend": {
@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
+    "groupSelectorAttribute": "contact subtype",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
@@ -40,8 +40,8 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 4,
-      "minEdgeSize": 1,
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
       "minNodeSize": 1,
       "maxNodeSize": 7
     },
